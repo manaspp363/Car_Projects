@@ -136,14 +136,12 @@ TimeSheetApplication.java
 
 ---
 
-## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for details.
-
----
 
 ## 📬 Contact
 
 **Developer**: Manas Peeyush Pandey
+
 **Email**: [manaspeeyushpadney@gmail.com](mailto:manaspeeyushpadney@gmail.com)
+
 **GitHub Repo**: [https://github.com/manaspp363/TimeSheet.git](mailto:manaspeeyushpadney@gmail.com)
