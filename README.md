@@ -36,19 +36,33 @@ The **TimeSheet** project is a backend application developed using **Java** and 
 
 src/
 └── main/
+
 └── java/
+
 └── com/
+
 └── TimeSheet/
+
 ├── Config/        # Configuration files (e.g., JWT config, security)
+
 ├── Controller/    # REST API Controllers
+
 ├── DTO/           # Data Transfer Objects
+
 ├── Entity/        # JPA Entity Classes
+
 ├── Exception/     # Custom exceptions and global handler
+
 ├── Repository/    # Spring Data JPA Repositories
+
 ├── Service/       # Service Interfaces
+
 └── ServiceImpl/   # Service Implementations
+
 └── resources/
+
 └── application.properties
+
 TimeSheetApplication.java
 
 ---
